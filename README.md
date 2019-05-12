@@ -1,4 +1,4 @@
 # springboot-crud
-### 基于SpringBoot的学生信息管理系统
-- 可对学生的个人信息进行增删改查等常用操作
-- 用于练习SpringBoot的操作
+### 基于SpringBoot的员工信息管理系统
+- 可对员工的部门信息进行增删改查等常用操作
+- 仅用于练习SpringBoot与Thymeleaf模板引擎的整合操作，没有连接数据库
